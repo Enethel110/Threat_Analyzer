@@ -1,0 +1,9 @@
+dnspython
+requests
+jsonlib
+pyfiglet
+termcolor
+folium
+ipwhois
+pandas
+matplotlib
