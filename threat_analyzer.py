@@ -20,10 +20,10 @@ import matplotlib.pyplot as plt
 # ====================== CONFIGURACIÓN ======================
 class Config:
     API_KEYS = {
-        'abuseipdb': '1305b7f5dd85cf63948064f6f9884caceeb9c0e1eef4b0b003881f8f8524288e7abd75ebf737a634',  # https://www.abuseipdb.com/
-        'virustotal': '750cc56a8f581c7083321f66df3c81bbab1053704112b172ab1021997cadd7cc', # https://www.virustotal.com/
-        'shodan': 'yCF1qjbOAbdhYCwdR3lA3BzHsskxwLEU',         # https://developer.shodan.io/
-        'ipinfo': '3d8160567d0378'          # https://ipinfo.io/
+        'abuseipdb': '51305b7f5dd85cf63948064f6f9884caceeb9c0e1eef4b0b003881f8f8524288e7abd75ebf737a634',  # https://www.abuseipdb.com/
+        'virustotal': '4750cc56a8f581c7083321f66df3c81bbab1053704112b172ab1021997cadd7cc', # https://www.virustotal.com/
+        'shodan': '3yCF1qjbOAbdhYCwdR3lA3BzHsskxwLEU',         # https://developer.shodan.io/
+        'ipinfo': '23d8160567d0378'          # https://ipinfo.io/
     }
     
     PROXIES = {}  # Ej: {'http': 'http://corp-proxy:3128'}
